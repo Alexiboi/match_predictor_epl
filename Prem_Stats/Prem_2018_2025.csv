@@ -2659,43 +2659,43 @@ Season,MatchWeek,Date,Time,HomeTeam,AwayTeam,FullTimeHomeTeamGoals,FullTimeAwayT
 2024-2025,38,25/05/2025,16:00,Southampton,Arsenal,1,2,A,0,1,A,D Bond,7,23,2,8,5,8,7,8,0,0,0,0,0,3
 2024-2025,38,25/05/2025,16:00,Tottenham,Brighton,1,4,A,1,0,H,R Jones,4,23,2,8,2,11,13,8,3,1,0,0,0,3
 2024-2025,38,25/05/2025,16:00,Wolves,Brentford,1,1,D,0,1,A,C Pawson,18,13,6,7,8,3,7,9,2,1,0,0,1,1
-2025-2026, 1, 15/08/2025, 20:00, Liverpool, Bournemouth, 4, 2, H
-2025-2026, 1, 16/08/2025, 15:00, Aston Villa, Newcastle Utd, 0, 0, D
-2025-2026, 1, 16/08/2025, 15:00, Brighton, Fulham, 1, 1, D
-2025-2026, 1, 16/08/2025, 15:00, Sunderland, West Ham, 3, 0, H
-2025-2026, 1, 16/08/2025, 15:00, Spurs, Burnley, 3, 0, H
-2025-2026, 1, 16/08/2025, 17:30, Wolves, Manchester City, 0, 4, A
-2025-2026, 1, 17/08/2025, 14:00, Chelsea, Crystal Palace, 0, 0, D
-2025-2026, 1, 17/08/2025, 14:00, Nott'ham Forest, Brentford, 3, 1, H
-2025-2026, 1, 17/08/2025, 16:30, Manchester Utd, Arsenal, 0, 1, A
-2025-2026, 1, 18/08/2025, 20:00, Leeds United, Everton, 1, 0, H
-2025-2026, 2, 22/08/2025, 20:00, West Ham, Chelsea, 1, 5, A
-2025-2026, 2, 23/08/2025, 12:30, Manchester City, Spurs, 0, 2, A
-2025-2026, 2, 23/08/2025, 15:00, Bournemouth, Wolves, 1, 0, H
-2025-2026, 2, 23/08/2025, 15:00, Brentford, Aston Villa, 1, 0, H
-2025-2026, 2, 23/08/2025, 15:00, Burnley, Sunderland, 2, 0, H
-2025-2026, 2, 23/08/2025, 15:00, Arsenal, Leeds United, 5, 0, H
-2025-2026, 2, 24/08/2025, 14:00, Crystal Palace, Nott'ham Forest, 1, 1, D
-2025-2026, 2, 24/08/2025, 14:00, Everton, Brighton, 2, 0, H
-2025-2026, 2, 24/08/2025, 16:30, Fulham, Manchester Utd, 1, 1, D
-2025-2026, 2, 25/08/2025, 20:00, Newcastle Utd, Liverpool, 2, 3, A
-2025-2026, 3, 30/08/2025, 12:30, Chelsea, Fulham, 2, 0, H
-2025-2026, 3, 30/08/2025, 15:00, Manchester Utd, Burnley, 3, 2, H
-2025-2026, 3, 30/08/2025, 15:00, Sunderland, Brentford, 2, 1, H
-2025-2026, 3, 30/08/2025, 15:00, Spurs, Bournemouth, 0, 1, A
-2025-2026, 3, 30/08/2025, 15:00, Wolves, Everton, 2, 3, A
-2025-2026, 3, 30/08/2025, 15:00, Leeds United, Newcastle Utd, 0, 0, D
-2025-2026, 3, 30/08/2025, 15:00, Brighton, Manchester City, 2, 1, H
-2025-2026, 3, 30/08/2025, 15:00, Nott'ham Forest, West Ham, 0, 3, A
-2025-2026, 3, 30/08/2025, 17:30, Liverpool, Arsenal, 1, 0, H
-2025-2026, 3, 30/08/2025, 20:00, Aston Villa, Crystal Palace, 0, 3, A
-2025-2026, 4, 13/09/2025, 12:30, Arsenal, Nott'ham Forest, 3, 0, H
-2025-2026, 4, 13/09/2025, 15:00, Bournemouth, Brighton, 2, 1, H
-2025-2026, 4, 13/09/2025, 15:00, Crystal Palace, Sunderland, 0, 0, D
-2025-2026, 4, 13/09/2025, 15:00, Everton, Aston Villa, 0, 0, D
-2025-2026, 4, 13/09/2025, 15:00, Fulham, Leeds United, 1, 0, H
-2025-2026, 4, 13/09/2025, 15:00, Newcastle Utd, Wolves, 1, 0, H
-2025-2026, 4, 13/09/2025, 15:00, West Ham, Spurs, 0, 3, A
-2025-2026, 4, 13/09/2025, 17:30, Brentford, Chelsea, 2, 2, D
-2025-2026, 4, 14/09/2025, 14:00, Burnley, Liverpool, 0, 1, A
-2025-2026, 4, 14/09/2025, 16:30, Manchester City, Manchester Utd, 3, 0, H
+2025-2026,1,15/08/2025,20:00,Liverpool,Bournemouth,4,2,H
+2025-2026,1,16/08/2025,15:00,Aston Villa,Newcastle Utd,0,0,D
+2025-2026,1,16/08/2025,15:00,Brighton,Fulham,1,1,D
+2025-2026,1,16/08/2025,15:00,Sunderland,West Ham,3,0,H
+2025-2026,1,16/08/2025,15:00,Tottenham,Burnley,3,0,H
+2025-2026,1,16/08/2025,17:30,Wolves,Manchester City,0,4,A
+2025-2026,1,17/08/2025,14:00,Chelsea,Crystal Palace,0,0,D
+2025-2026,1,17/08/2025,14:00,Nott'ham Forest,Brentford,3,1,H
+2025-2026,1,17/08/2025,16:30,Manchester Utd,Arsenal,0,1,A
+2025-2026,1,18/08/2025,20:00,Leeds United,Everton,1,0,H
+2025-2026,2,22/08/2025,20:00,West Ham,Chelsea,1,5,A
+2025-2026,2,23/08/2025,12:30,Manchester City,Tottenham,0,2,A
+2025-2026,2,23/08/2025,15:00,Bournemouth,Wolves,1,0,H
+2025-2026,2,23/08/2025,15:00,Brentford,Aston Villa,1,0,H
+2025-2026,2,23/08/2025,15:00,Burnley,Sunderland,2,0,H
+2025-2026,2,23/08/2025,15:00,Arsenal,Leeds United,5,0,H
+2025-2026,2,24/08/2025,14:00,Crystal Palace,Nott'ham Forest,1,1,D
+2025-2026,2,24/08/2025,14:00,Everton,Brighton,2,0,H
+2025-2026,2,24/08/2025,16:30,Fulham,Manchester Utd,1,1,D
+2025-2026,2,25/08/2025,20:00,Newcastle Utd,Liverpool,2,3,A
+2025-2026,3,30/08/2025,12:30,Chelsea,Fulham,2,0,H
+2025-2026,3,30/08/2025,15:00,Manchester Utd,Burnley,3,2,H
+2025-2026,3,30/08/2025,15:00,Sunderland,Brentford,2,1,H
+2025-2026,3,30/08/2025,15:00,Tottenham,Bournemouth,0,1,A
+2025-2026,3,30/08/2025,15:00,Wolves,Everton,2,3,A
+2025-2026,3,30/08/2025,15:00,Leeds United,Newcastle Utd,0,0,D
+2025-2026,3,31/08/2025,15:00,Brighton,Manchester City,2,1,H
+2025-2026,3,31/08/2025,15:00,Nott'ham Forest,West Ham,0,3,A
+2025-2026,3,31/08/2025,17:30,Liverpool,Arsenal,1,0,H
+2025-2026,3,31/08/2025,20:00,Aston Villa,Crystal Palace,0,3,A
+2025-2026,4,13/09/2025,12:30,Arsenal,Nott'ham Forest,3,0,H
+2025-2026,4,13/09/2025,15:00,Bournemouth,Brighton,2,1,H
+2025-2026,4,13/09/2025,15:00,Crystal Palace,Sunderland,0,0,D
+2025-2026,4,13/09/2025,15:00,Everton,Aston Villa,0,0,D
+2025-2026,4,13/09/2025,15:00,Fulham,Leeds United,1,0,H
+2025-2026,4,13/09/2025,15:00,Newcastle Utd,Wolves,1,0,H
+2025-2026,4,13/09/2025,15:00,West Ham,Tottenham,0,3,A
+2025-2026,4,13/09/2025,17:30,Brentford,Chelsea,2,2,D
+2025-2026,4,14/09/2025,14:00,Burnley,Liverpool,0,1,A
+2025-2026,4,14/09/2025,16:30,Manchester City,Manchester Utd,3,0,H
